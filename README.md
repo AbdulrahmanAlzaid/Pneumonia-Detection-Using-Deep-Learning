@@ -10,32 +10,27 @@ The main goal is to compare different deep learning models and identify the best
 
 
 
-\## Dataset
+## Dataset
 
-The project uses the \*\*Chest X-Ray Images (Pneumonia)\*\* dataset.
+The project uses the **Chest X-Ray Images (Pneumonia)** dataset from Kaggle.
 
-
+Dataset link:
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 The dataset contains two classes:
 
-
-
-\- NORMAL
-
-\- PNEUMONIA
-
-
+* NORMAL
+* PNEUMONIA
 
 Dataset structure:
 
+* Train: 5216 images
+* Validation: 16 images
+* Test: 624 images
 
-
-\- Train: 5216 images
-
-\- Validation: 16 images
-
-\- Test: 624 images
-
+**Note:**
+The dataset is not included in this repository due to its large size.
+This repository is intended to showcase the notebook, methodology, model comparison, and saved results.
 
 
 \## Models Used
