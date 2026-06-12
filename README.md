@@ -33,6 +33,7 @@ The dataset is not included in this repository due to its large size.
 This repository is intended to showcase the notebook, methodology, model comparison, and saved results.
 
 
+
 \## Models Used
 
 Three deep learning models were used and compared:
@@ -47,6 +48,7 @@ Three deep learning models were used and compared:
 
 
 
+
 \## Methodology
 
 The X-ray images were resized and normalized before training.  
@@ -56,6 +58,7 @@ A custom CNN model was used as the baseline model.
 Then, VGG16 was applied using transfer learning.  
 
 Finally, the VGG16 model was improved by using data augmentation and class weights to improve the performance.
+
 
 
 
@@ -77,6 +80,7 @@ The best model was the \*\*Improved VGG16\*\* model.
 
 
 
+
 \## Best Model Performance
 
 
@@ -92,6 +96,7 @@ The best model was the \*\*Improved VGG16\*\* model.
 
 
 Overall Accuracy: \*\*88%\*\*
+
 
 
 
@@ -113,6 +118,7 @@ Overall Accuracy: \*\*88%\*\*
 
 
 
+
 \## Project Files
 
 \- `Pneumonia\_Detection\_Using\_Deep\_Learning.ipynb`  
@@ -130,6 +136,7 @@ Overall Accuracy: \*\*88%\*\*
 \- `requirements.txt`  
 
 &#x20; Required Python libraries to run the project.
+
 
 
 
